@@ -13,7 +13,11 @@ To generate the midi dataset we used "Onset and Frames" colab made by Google to 
 This is our first aproach using an LSTM model to generate some music files (you can check medium for music results), you can find the generated durations, notes and offsets thar were used for the neuronal network in the "data" folder in this repository.
 
 #### nsynth.ipynb
-This is the n-synth that we used to generate music by interpolating our music from the dataset contained in "Midis" folder.
+This is the n-synth that we used to generate music by interpolating our music from the dataset contained in "Midis" folder (you can check medium for music results).
 
 #### AutoMusicGen.ipynb
-This is our last aproach using a WaveNet using raw music files wich can be found in the "RawAudio" folder from this repository.
+This is our last aproach using a WaveNet using raw music files wich can be found in the "RawAudio" folder from this repository (you can check medium for music results).
+
+[medium link (spanish)](https://mjvnor.medium.com/como-fallar-en-generar-corridos-tumbados-mediante-ia-28c74a0b23db)
+
+[medium link (englsih) (under construction)]()
