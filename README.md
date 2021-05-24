@@ -20,4 +20,4 @@ This is our last aproach using a WaveNet using raw music files wich can be found
 
 [medium link (spanish)](https://mjvnor.medium.com/como-fallar-en-generar-corridos-tumbados-mediante-ia-28c74a0b23db)
 
-[medium link (english) (under construction)](https://github.com/MJVNOR/CorridosTumbadosGenerateAcustico)
+[medium link (english)](https://towardsdatascience.com/how-to-fail-to-generate-corridos-tumbados-using-ai-b10395d09e26)
